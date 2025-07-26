@@ -15,6 +15,22 @@
       ],
       "tags": [],
       "uuid": "d3eb436a-e85c-4077-bc40-d66350b6282a"
+    },
+    {
+      "start_time": 25,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "女性の歌声"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fc4d7e99-1eb1-44c2-9ec1-27663aafc388"
     }
   ],
   "set": "Default",
