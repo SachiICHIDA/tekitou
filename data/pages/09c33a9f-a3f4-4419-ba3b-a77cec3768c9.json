@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-07-26T06:40:41.861Z",
+  "created_by": "SachiICHIDA",
+  "title": "test",
+  "slug": "test",
+  "updated_at": "2025-07-26T06:40:41.861Z",
+  "updated_by": "SachiICHIDA",
+  "parent": "a5303ebb-2125-4fc6-89d2-973ecf3f48d1",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "e2c2d303-6cc4-47cf-bfe0-f8dfecce737b"
+  }
+}
