@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "太鼓の音音"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a1cfbccc-5ec0-4235-a934-af8e74317ef8"
+    }
+  ],
   "set": "Default",
   "event_id": "d671d13f-c2f3-457a-b664-54973e3af59b",
   "source_id": "3dca14ee-d8da-40c6-9640-e06b4895a60a"
