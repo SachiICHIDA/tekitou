@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 10,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "字幕"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d2986ec0-3cb8-450e-a8c2-1c04346f1a81"
+    }
+  ],
   "set": "Default",
   "event_id": "60f42809-defe-4944-9c72-1468b4d3c8c2",
   "source_id": "20672fdb-0258-4cda-a374-cc557dd8b16c"
